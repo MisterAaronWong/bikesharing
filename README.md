@@ -24,7 +24,7 @@ This heatmap visualization is a great way to display the hot spots of when trips
 ### Trips by Gender (Weekday per Hour)
 ![gender_weekday_trips_hour](Resources/gender_weekday_trips_hour.png)
 
-Based on this visualization it appears that 
+Thi visualization is similar to the previous one except that the genders are split into their own heatmaps. However, we can still see that the pattern is the same. The weekdays experienced peak bike trips during the 5PM-6PM time range, the daytime hours of Saturdays and Sundays were active, and the nightime to early morning hours were the least active across all genders. It is noteworthy that the shades are much darker for the males heatmap, indicating that males are overall more avtice in ridership than females.
 
 ### User Trips by Gender by Weekday
 ![weekday_trips_gender](Resources/weekday_trips_gender.png)
