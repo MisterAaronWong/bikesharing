@@ -1,7 +1,7 @@
 # bikesharing
 
 ## Overview
-The purpose of this analysis was to convince investors that creating a bike-share program in Des Moines, Iowa is a good business proposal. One of the key stakeholders requested to see a bike trip analysis. To do this, the data was analyzed and visualized through Tableau using appropriate filters to help the data tell a story. Specifically, the length of time that bikes were check out were analyzed for all riders and further analyzed by the gender of the riders. Additionally, the length of the bike trips were analyzed for all rides based on their gender for each hour and each day of the week. Moreover, the number of bike trips for each user type and their gender were analyzed for each day of the week. In order to due this, we used the August 2019 ride data collected from New York City's CitiBike bike-share program. First, the CSV file holding the data was converted to a DataFrame with Python Pandas. Then it was imported into Tableau and filtered out accordingly to create the relevant visualizations. Finally, the visualizations were compiled into a Tableau story along with the _______ and the ____ _ visualizations to really show the investors how might it be pertinent and translate to the success rate to a bike sharing program in Des Moines.
+The purpose of this analysis was to convince investors that creating a bike-share program in Des Moines, Iowa is a good business proposal. One of the key stakeholders requested to see a bike trip analysis. To do this, the data was analyzed and visualized through Tableau using appropriate filters to help the data tell a story. Specifically, the length of time that bikes were check out were analyzed for all riders and further analyzed by the gender of the riders. Additionally, the length of the bike trips were analyzed for all rides based on their gender for each hour and each day of the week. Moreover, the number of bike trips for each user type and their gender were analyzed for each day of the week. In order to due this, we used the August 2019 ride data collected from New York City's CitiBike bike-share program. First, the CSV file holding the data was converted to a DataFrame with Python Pandas. Then it was imported into Tableau and filtered out accordingly to create the relevant visualizations. Finally, the visualizations were compiled into a Tableau story along with the _______ and the ____ _ visualizations to really show the investors how might it be pertinent and translate to the success rate of a potential bike sharing program in Des Moines.
 
 ## Results
 The results can be analyzed in the visualizations below:
@@ -32,13 +32,16 @@ This visualization is similar to the previous one except that the genders are sp
 In this heatmap, the popular ride times of each weekday were detailed, separated by gender as well as the usertype. Usertype differentiates whether the user was a subscriber or a customer. The darker shades are in the subscriber portion, indicating most of the active riders were subscribers, with the darkest shades in the Male column, indicating that the majority of riders whom are also subscribers are males. Interestingly enough, the darkest shade is on Thursday. It could be interesting to dive deeper into the analysis as to why this is the most active day of the week for ridership. The Unknown column in the subscriber portion is a single light shade. This likely signifies that none of those whose genders are 'Unknown' are subscribers OR that each weekday for unknown gendered subscribers resulted in the same level of ridership activity, which is less likely.
 
 ###
-![mentorship](Resources/mentorship.png)
+![active_locations](Resources/active_locations.png)
 
 Based on this visualization it appears that 
 
 ###
-![mentorship](Resources/mentorship.png)
+![repair](Resources/repair.png)
 
 Based on this visualization it appears that 
 
 ## Summary
+From these results, we can see some logical and expected patterns. Bike ridership activity is
+
+Two additional visualizations can help provide further analysis. One would to be examine . The other visualization we can create is .
