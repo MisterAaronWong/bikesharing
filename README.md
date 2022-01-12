@@ -6,20 +6,20 @@ The purpose of this analysis was to convince investors that creating a bike-shar
 ## Results
 The results can be analyzed in the visualizations below:
 
-### 
-![expecting_retirement_code](Resources/expecting_retirement_code.png)
+### Checkout Times for Users
+![checkout_times_users](Resources/checkout_times_users.png)
 
-###
-![total_employees](Resources/total-employees.png)
+### Checkout Times by Gender
+![chceckout_times_gender](Resources/checkout_times_gender.png)
 
-###
-![title_retiring](Resources/title_retiring.png)
+### Trips by Weekday for Each Hour
+![weekday_trips_each_hour](Resources/weekday_trips_each_hour.png)
 
-###
-![mentorship](Resources/mentorship.png)
+### Trips by Gender (Weekday per Hour)
+![gender_weekday_trips_hour](Resources/gender_weekday_trips_hour.png)
 
-###
-![mentorship](Resources/mentorship.png)
+### User Trips by Gender by Weekday
+![weekday_trips_gender](Resources/weekday_trips_gender.png)
 
 ###
 ![mentorship](Resources/mentorship.png)
