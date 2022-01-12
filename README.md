@@ -19,7 +19,7 @@ Similar to the previous visualization, it appears that the highest number of bik
 ### Trips by Weekday for Each Hour
 ![weekday_trips_each_hour](Resources/weekday_trips_each_hour.png)
 
-Based on this visualization it appears that 
+This heatmap visualization is a great way to display the hot spots of when trips are at their highest or loewst points by weekday and per each hour. The darker the shade, the more trips that were active. Lighter shades indicate lower trip activity. From this heatmap we can see that during the weekdays, there appeared to be the highest amount of trip activity between the hours of 5PM-6PM, probably as a means for people to get home on their evening commute or perhaps a leisurely evening bike ride after work. The shades on Saturday and Sunday showed there was consistent ridership throughout the daytime hours. And as expected, the lowest amount of trip activity was during the late night and early morning hours, regardless of the day of the week.  
 
 ### Trips by Gender (Weekday per Hour)
 ![gender_weekday_trips_hour](Resources/gender_weekday_trips_hour.png)
