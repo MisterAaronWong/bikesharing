@@ -9,23 +9,36 @@ The results can be analyzed in the visualizations below:
 ### Checkout Times for Users
 ![checkout_times_users](Resources/checkout_times_users.png)
 
+Based on this visualization it appears that 
+
 ### Checkout Times by Gender
 ![chceckout_times_gender](Resources/checkout_times_gender.png)
+
+Based on this visualization it appears that 
 
 ### Trips by Weekday for Each Hour
 ![weekday_trips_each_hour](Resources/weekday_trips_each_hour.png)
 
+Based on this visualization it appears that 
+
 ### Trips by Gender (Weekday per Hour)
 ![gender_weekday_trips_hour](Resources/gender_weekday_trips_hour.png)
+
+Based on this visualization it appears that 
 
 ### User Trips by Gender by Weekday
 ![weekday_trips_gender](Resources/weekday_trips_gender.png)
 
-###
-![mentorship](Resources/mentorship.png)
+Based on this visualization it appears that 
 
 ###
 ![mentorship](Resources/mentorship.png)
 
+Based on this visualization it appears that 
+
+###
+![mentorship](Resources/mentorship.png)
+
+Based on this visualization it appears that 
 
 ## Summary
