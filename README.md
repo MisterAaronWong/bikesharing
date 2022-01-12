@@ -14,7 +14,7 @@ Based on this visualization it appears that
 ### Checkout Times by Gender
 ![chceckout_times_gender](Resources/checkout_times_gender.png)
 
-Based on this visualization it appears that 
+Based on this visualization it appears that the highest number of bikes checked out at the highest minute duration is around 10 minutes, with male bikers encompassing the majority of the checkout times. However all genders follow a similar pattern in the amount of the time that is spent checked out and riding, with the peak time somewhere around 5-10 minutes. Beforehand, there is a sharp increase and after the peak, there is a sharp decrease seen across all genders. There are very minimal to no riders regardless of gender who have bikes checked out past around 55 minutes.
 
 ### Trips by Weekday for Each Hour
 ![weekday_trips_each_hour](Resources/weekday_trips_each_hour.png)
