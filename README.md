@@ -36,7 +36,7 @@ In this heatmap, the popular ride times of each weekday were detailed, separated
 
 This visualization is a bar chart that further cements information we established earlier and already know. It shows the sum amount of ridership per hour of each day. However, with this spedific chart, it was noteworthy to point out the lowest peak hours. Bikes will ineveitable need to go through maintenance as they get used. To minimize affecting the availablity of bikes and thus the customer base, it would be recommended to perform maintenance during the hours with the lowest amount of ridership, which would be the early morning hours between 2AM-5AM.
 
-###
+### Bikes Due for Repair
 ![bike_repair](Resources/bike_repair.png)
 
 In conjunction with the previous visualization showing the lowest peak hours that are most optimal for conducting bike maintenance, it is also important to determine which bikes are most likely to need repairs based on the amount of use they receive. To determine this, this visualization was created that uses shades of a color to indicate the frequency of records attached to each Bike ID. The darker the shade, the more records exist for that Bike ID, indicating that those partiuclar bikes get used the most often. Investors can stay ahead of bike keep-up by closely monitoring which BikeIDs are accumulating more records and directing maintenance for them during the peak lowest ridership hours. 
