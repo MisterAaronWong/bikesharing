@@ -31,15 +31,15 @@ This visualization is similar to the previous one except that the genders are sp
 
 In this heatmap, the popular ride times of each weekday were detailed, separated by gender as well as the usertype. Usertype differentiates whether the user was a subscriber or a customer. The darker shades are in the subscriber portion, indicating most of the active riders were subscribers, with the darkest shades in the Male column, indicating that the majority of riders whom are also subscribers are males. Interestingly enough, the darkest shade is on Thursday. It could be interesting to dive deeper into the analysis as to why this is the most active day of the week for ridership. The Unknown column in the subscriber portion is a single light shade. This likely signifies that none of those whose genders are 'Unknown' are subscribers OR that each weekday for unknown gendered subscribers resulted in the same level of ridership activity, which is less likely.
 
-###
-![active_locations](Resources/active_locations.png)
-
-Based on this visualization it appears that 
-
-###
+### August 2019 Peak Riding Hours
 ![repair](Resources/repair.png)
 
-Based on this visualization it appears that 
+This visualization is a bar chart that further cements information we established earlier and already know. It shows the sum amount of ridership per hour of each day. However, with this spedific chart, it was noteworthy to point out the lowest peak hours. Bikes will ineveitable need to go through maintenance as they get used. To minimize affecting the availablity of bikes and thus the customer base, it would be recommended to perform maintenance during the hours with the lowest amount of ridership, which would be the early morning hours between 2AM-5AM.
+
+###
+![bike_repair](Resources/bike_repair.png)
+
+In conjunction with the previous visualization showing the lowest peak hours that are most optimal for conducting bike maintenance, it is also important to determine which bikes are most likely to need repairs based on the amount of use they receive. To determine this, this visualization was created that uses shades of a color to indicate the frequency of records attached to each Bike ID. The darker the shade, the more records exist for that Bike ID, indicating that those partiuclar bikes get used the most often. Investors can stay ahead of bike keep-up by closely monitoring which BikeIDs are accumulating more records and directing maintenance for them during the peak lowest ridership hours. 
 
 ## Summary
 From these results, we can see some logical and expected patterns. Bike ridership activity is
